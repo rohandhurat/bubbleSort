@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
+Bubble sort is implementd with 2 for loops
+
+![image](https://user-images.githubusercontent.com/42724424/157397389-77b92942-2c47-4c64-9a4c-8f8dba35e8f9.png)
+
 It uses Angular Material UI for rich display (https://material.angular.io/)
 
 You can brwose the page with https://rohandhurat.github.io/bubbleSort/
